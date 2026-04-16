@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Texas that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Texas, US",
+  "export_job_id": "3722d9f0-b65a-427c-affb-d1783883aa02",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 830859,
+  "location_name": "Texas",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-texas-us-sample-830859",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/830859/beamstation_830859_food_and_drink-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.33,
+  "sample_records": 43,
+  "sample_sha256": "aab049fc81b845feb54ec6ad7ce7d278c0b2a0a19d850597e13cae90bbf85046",
+  "sample_size_bytes": 173769,
+  "total_records": 461,
+  "updated_at": "2026-04-08T01:52:46.691414+00:00"
+}
