@@ -9,9 +9,9 @@
 | Dataset ID | `830859` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 461 records |
-| Free sample size | 43 records (9.33%) |
-| Last export | 2026-04-08T01:52:46.691414+00:00 |
+| Full dataset size | 433 records |
+| Free sample size | 43 records (9.93%) |
+| Last export | 2026-04-15T07:27:47.012646+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-texas-us-sample-830859/releases/download/sample-latest/beamstation_830859_food_and_drink-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
