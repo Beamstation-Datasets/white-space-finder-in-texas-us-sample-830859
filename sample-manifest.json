@@ -1,12 +1,12 @@
 {
-  "export_job_id": "985c0a04-a83b-4755-9885-ddec70165ba7",
+  "export_job_id": "d9ba0d15-2559-4713-9113-53038c456321",
   "id_short": 830859,
-  "published_at": "2026-04-19T07:40:15Z",
+  "published_at": "2026-04-23T07:12:04Z",
   "repo_name": "white-space-finder-in-texas-us-sample-830859",
   "sample_asset_name": "beamstation_830859_food_and_drink-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/830859/beamstation_830859_food_and_drink-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "aab049fc81b845feb54ec6ad7ce7d278c0b2a0a19d850597e13cae90bbf85046",
-  "sample_size_bytes": 173769,
-  "total_records": 433
+  "sample_records": 41,
+  "sample_sha256": "1e9c70917f5f544e221890d7372a41cec3cac07e5ff5e2220c9bb75e49f0bfb1",
+  "sample_size_bytes": 167425,
+  "total_records": 412
 }
