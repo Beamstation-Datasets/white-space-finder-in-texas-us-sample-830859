@@ -1,6 +1,6 @@
 # White Space Finder in Texas, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 50 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `830859` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 412 records |
-| Free sample size | 41 records (9.95%) |
-| Last export | 2026-04-22T13:47:05.710767+00:00 |
+| Full dataset size | 500 records |
+| Free sample size | 50 records (10.0%) |
+| Last export | 2026-04-29T14:31:11.602962+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-texas-us-sample-830859/releases/download/sample-latest/beamstation_830859_food_and_drink-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
